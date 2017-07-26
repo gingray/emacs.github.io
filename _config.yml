@@ -13,6 +13,8 @@ github_username: gingray
 sass:
   sass_dir: _sass
 
+gems:
+  - jekyll-github-metadata
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
